@@ -261,3 +261,8 @@ textarea {
     padding-left: 15px;
   }
 }
+
+strong {
+  color: #363636;
+  font-weight: 700;
+}
